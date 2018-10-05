@@ -1,6 +1,6 @@
 # codemix-vanilla-angular
 
-Template for project creation of NodeJS inside CodeMix
+Template for project creation of Angular Project inside CodeMix
 
 ## Contents
 
